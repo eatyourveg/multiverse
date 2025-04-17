@@ -8297,7 +8297,7 @@
                 "买"
             ],
             [
-                "Bug"
+                "Buy"
             ]
         ],
         [
@@ -31218,7 +31218,7 @@
                 2837
             ],
             [
-                "[size=16]循环或推图模式中战斗超时自动重开"
+                "[size=16]挂机战斗超时重开[color=yellow]（请注意门票消耗）"
             ],
             [
                 "[size=12]Combat timeout automatically restarts"
@@ -40081,134 +40081,134 @@
         ],
         [
             [
-                ""
+                3643
             ],
             [
-                ""
+                "淬炼角色穿戴装备"
             ],
             [
-                ""
+                "Select by character"
             ]
         ],
         [
             [
-                ""
+                3644
             ],
             [
-                ""
+                "全身淬炼1次"
             ],
             [
-                ""
+                "Upgrade all once"
             ]
         ],
         [
             [
-                ""
+                3645
             ],
             [
-                ""
+                "全身最大淬炼"
             ],
             [
-                ""
+                "All maximum upgrades"
             ]
         ],
         [
             [
-                ""
+                3646
             ],
             [
-                ""
+                "最大淬炼"
             ],
             [
-                ""
+                "Maximum upgrade"
             ]
         ],
         [
             [
-                ""
+                3647
             ],
             [
-                ""
+                "角色列表"
             ],
             [
-                ""
+                "List"
             ]
         ],
         [
             [
-                ""
+                3648
             ],
             [
-                ""
+                "鼠标[color=yellow]左键[/color]点击装备图标淬炼1次"
             ],
             [
-                ""
+                "Left click to upgrade once"
             ]
         ],
         [
             [
-                ""
+                3649
             ],
             [
-                ""
+                "鼠标[color=yellow]右键[/color]点击装备图标最大淬炼"
             ],
             [
-                ""
+                "Right click to Maximum Upgrade"
             ]
         ],
         [
             [
-                ""
+                3650
             ],
             [
-                ""
+                "按[color=yellow]物品等级[/color]销毁"
             ],
             [
-                ""
+                "by item level"
             ]
         ],
         [
             [
-                ""
+                3651
             ],
             [
-                ""
+                "按[color=yellow]物品等级[/color]出售"
             ],
             [
-                ""
+                "by item level"
             ]
         ],
         [
             [
-                ""
+                3652
             ],
             [
-                ""
+                "输入[color=yellow]物品等级以下销毁[/color]"
             ],
             [
-                ""
+                "Enter item level"
             ]
         ],
         [
             [
-                ""
+                3653
             ],
             [
-                ""
+                "输入[color=yellow]物品等级以下出售[/color]"
             ],
             [
-                ""
+                "Enter item level"
             ]
         ],
         [
             [
-                ""
+                3654
             ],
             [
-                ""
+                "进入位面时自动开启"
             ],
             [
-                ""
+                "Automatically activated upon entering the plane"
             ]
         ],
         [

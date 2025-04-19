@@ -40498,10 +40498,10 @@
                 0
             ],
             [
-                "[color=lightblue]【治疗辅助】[/color]回复我方单体释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并增加其[color=lightgreen]1[/color]点[color=yellow]能量[/color]（自动状态默认最高攻击队友）"
+                "[color=lightblue]【治疗辅助】[/color]回复我方单体释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并增加其[color=lightgreen]1[/color]点[color=yellow]能量[/color]"
             ],
             [
-                "增加能量"
+                "生命治疗"
             ],
             [
                 0
@@ -40814,7 +40814,7 @@
                 0
             ],
             [
-                "[color=lightblue]【治疗辅助】[/color]回复我方全体释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并增加其[color=lightgreen]1[/color]点[color=yellow]能量[/color]（自动状态默认最高攻击队友）"
+                "[color=lightblue]【治疗辅助】[/color]回复我方全体释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并增加其[color=lightgreen]1[/color]点[color=yellow]能量[/color]"
             ],
             [
                 "增加能量"

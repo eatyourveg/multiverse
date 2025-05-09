@@ -2017,7 +2017,7 @@
                 37
             ],
             [
-                "解锁建筑[color=lightgreen]动物园[/color]"
+                "Unlock[color=lightgreen]Zoo[/color]"
             ]
         ],
         [
@@ -2237,7 +2237,7 @@
                 42
             ],
             [
-                "游客进园"
+                "驯养能力"
             ],
             [
                 "基础"
@@ -2258,7 +2258,7 @@
                 2
             ],
             [
-                "游客进园[color=lightgreen]+参数%[/color]"
+                "驯养能力[color=lightgreen]+参数%[/color]"
             ],
             [
                 37
@@ -2273,16 +2273,16 @@
                 0
             ],
             [
-                40
+                50
             ],
             [
                 0
             ],
             [
-                42
+                43
             ],
             [
-                "游客进园[color=lightgreen]+参数%[/color]"
+                "Taming Ability[color=lightgreen]+参数%[/color]"
             ]
         ],
         [
@@ -2290,7 +2290,7 @@
                 43
             ],
             [
-                "灵兽状态"
+                "驯养消耗"
             ],
             [
                 "基础"
@@ -2311,7 +2311,7 @@
                 2
             ],
             [
-                "灵兽状态[color=lightgreen]+参数%[/color]"
+                "驯养消耗减少[color=lightgreen]-参数%[/color]"
             ],
             [
                 37
@@ -2326,16 +2326,16 @@
                 0
             ],
             [
-                50
+                10
             ],
             [
                 0
             ],
             [
-                43
+                26
             ],
             [
-                "灵兽状态[color=lightgreen]+参数%[/color]"
+                "Taming Consump[color=lightgreen]-参数[/color]"
             ]
         ],
         [
@@ -2555,7 +2555,7 @@
                 48
             ],
             [
-                "门票费用"
+                "驯养产出"
             ],
             [
                 "基础"
@@ -2576,7 +2576,7 @@
                 2
             ],
             [
-                "门票费用[color=lightgreen]+参数%[/color]"
+                "驯养点产出[color=lightgreen]+参数%[/color]"
             ],
             [
                 42
@@ -2591,16 +2591,16 @@
                 0
             ],
             [
-                20
+                30
             ],
             [
                 0
             ],
             [
-                48
+                43
             ],
             [
-                "门票费用[color=lightgreen]+参数%[/color]"
+                "Taming Output[color=lightgreen]+参数%[/color]"
             ]
         ],
         [
@@ -2653,7 +2653,7 @@
                 49
             ],
             [
-                "动物园经验[color=lightgreen]+参数%[/color]"
+                "Building Exp[color=lightgreen]+参数%[/color]"
             ]
         ],
         [

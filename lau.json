@@ -1,7 +1,7 @@
 {
     "c2array": true,
     "size": [
-        4001,
+        4010,
         3,
         1
     ],
@@ -43755,244 +43755,343 @@
         ],
         [
             [
-                ""
+                3977
             ],
             [
-                ""
+                "驯养管理"
             ],
             [
-                ""
+                "Taming Management"
             ]
         ],
         [
             [
-                ""
+                3978
             ],
             [
-                ""
+                "灵兽进化"
             ],
             [
-                ""
+                "Beast Evolution"
             ]
         ],
         [
             [
-                ""
+                3979
             ],
             [
-                ""
+                "资质改造"
             ],
             [
-                ""
+                "Reforging"
             ]
         ],
         [
             [
-                ""
+                3980
             ],
             [
-                ""
+                "兽技学习"
             ],
             [
-                ""
+                "Beast Skill"
             ]
         ],
         [
             [
-                ""
+                3981
             ],
             [
-                ""
+                "改造"
             ],
             [
-                ""
+                "Reforge"
             ]
         ],
         [
             [
-                ""
+                3982
             ],
             [
-                ""
+                "补充饲料"
             ],
             [
-                ""
+                "[size=10]Supple Materials"
             ]
         ],
         [
             [
-                ""
+                3983
             ],
             [
-                ""
+                "驯养点"
             ],
             [
-                ""
+                "[size=10]Taming Points"
             ]
         ],
         [
             [
-                ""
+                3984
             ],
             [
-                ""
+                "[size=14][color=lightblue]右键点击[/color]可收回驯养饲料"
             ],
             [
-                ""
+                "[size=14][color=lightblue]Right mouse button[/color] recycling material"
             ]
         ],
         [
             [
-                ""
+                3985
             ],
             [
-                ""
+                "驯养能力"
             ],
             [
-                ""
+                "[size=10]Taming Ability"
             ]
         ],
         [
             [
-                ""
+                3986
             ],
             [
-                ""
+                "驯养产出"
             ],
             [
-                ""
+                "[size=10]Taming Output"
             ]
         ],
         [
             [
-                ""
+                3987
             ],
             [
-                ""
+                "凡品进化石"
             ],
             [
-                ""
+                "EvoStone 1"
             ]
         ],
         [
             [
-                ""
+                3988
             ],
             [
-                ""
+                "灵品进化石"
             ],
             [
-                ""
+                "EvoStone 2"
             ]
         ],
         [
             [
-                ""
+                3989
             ],
             [
-                ""
+                "仙品进化石"
             ],
             [
-                ""
+                "EvoStone 3"
             ]
         ],
         [
             [
-                ""
+                3990
             ],
             [
-                ""
+                "神品进化石"
             ],
             [
-                ""
+                "EvoStone 4"
             ]
         ],
         [
             [
-                ""
+                3991
             ],
             [
-                ""
+                "圣品进化石"
             ],
             [
-                ""
+                "EvoStone 5"
             ]
         ],
         [
             [
-                ""
+                3992
             ],
             [
-                ""
+                "进化石"
             ],
             [
-                ""
+                "EvoStone"
             ]
         ],
         [
             [
-                ""
+                3993
             ],
             [
-                ""
+                "狩团等阶"
             ],
             [
-                ""
+                "Party Level"
             ]
         ],
         [
             [
-                ""
+                3994
             ],
             [
-                ""
+                "请选择目标物品？"
             ],
             [
-                ""
+                "Please select the target item"
             ]
         ],
         [
             [
-                ""
+                3995
             ],
             [
-                ""
+                "选择需进化灵兽"
             ],
             [
-                ""
+                "Select Target Beast"
             ]
         ],
         [
             [
-                ""
+                3996
             ],
             [
-                ""
+                "选择需洗练灵兽"
             ],
             [
-                ""
+                "Select Target Beast"
             ]
         ],
         [
             [
-                ""
+                3997
             ],
             [
-                ""
+                "请选择目标灵兽？"
             ],
             [
-                ""
+                "Please select the target Beast"
             ]
         ],
         [
             [
-                ""
+                3998
             ],
             [
-                ""
+                "灵兽累计改造"
             ],
             [
-                ""
+                "Spirit Beast Modified "
+            ]
+        ],
+        [
+            [
+                3999
+            ],
+            [
+                "点击改造按钮"
+            ],
+            [
+                "Click to Modify"
+            ]
+        ],
+        [
+            [
+                4000
+            ],
+            [
+                "进化条件"
+            ],
+            [
+                "Evolve: Needs "
+            ]
+        ],
+        [
+            [
+                4001
+            ],
+            [
+                "已达到终极形态"
+            ],
+            [
+                "Has reached Ultimate Form"
+            ]
+        ],
+        [
+            [
+                4002
+            ],
+            [
+                "无法继续进化"
+            ],
+            [
+                "No further evolution possible"
+            ]
+        ],
+        [
+            [
+                4003
+            ],
+            [
+                "(改造次数、变异品质影响资源消耗量)"
+            ],
+            [
+                "Reforge Attempts & Mutation Tier Affect Resource Cost"
+            ]
+        ],
+        [
+            [
+                4004
+            ],
+            [
+                "[color=lightgreen]灵兽进化成功！"
+            ],
+            [
+                "Spirit Beast Evolution Complete!"
+            ]
+        ],
+        [
+            [
+                4005
+            ],
+            [
+                "[color=lightgreen]灵兽资质改造成功！"
+            ],
+            [
+                "Innate Potential Successfully Reforged!"
+            ]
+        ],
+        [
+            [
+                4006
+            ],
+            [
+                "驯养消耗"
+            ],
+            [
+                "[size=10]Taming Consump."
+            ]
+        ],
+        [
+            [
+                4007
+            ],
+            [
+                "动物园经验"
+            ],
+            [
+                "[size=10]Zoo Experience"
             ]
         ],
         [

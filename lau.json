@@ -1,7 +1,7 @@
 {
     "c2array": true,
     "size": [
-        4010,
+        4040,
         3,
         1
     ],
@@ -43791,7 +43791,7 @@
                 3980
             ],
             [
-                "兽技学习"
+                "兽决学习"
             ],
             [
                 "Beast Skill"
@@ -44096,13 +44096,343 @@
         ],
         [
             [
-                ""
+                4008
             ],
             [
-                ""
+                "修习设施1"
             ],
             [
-                ""
+                "Practice Facility 1"
+            ]
+        ],
+        [
+            [
+                4009
+            ],
+            [
+                "修习设施2"
+            ],
+            [
+                "Practice Facility 2"
+            ]
+        ],
+        [
+            [
+                4010
+            ],
+            [
+                "修习设施3"
+            ],
+            [
+                "Practice Facility 3"
+            ]
+        ],
+        [
+            [
+                4011
+            ],
+            [
+                "修习设施4"
+            ],
+            [
+                "Practice Facility 4"
+            ]
+        ],
+        [
+            [
+                4012
+            ],
+            [
+                "修习设施5"
+            ],
+            [
+                "Practice Facility 5"
+            ]
+        ],
+        [
+            [
+                4013
+            ],
+            [
+                "修习设施6"
+            ],
+            [
+                "Practice Facility 6"
+            ]
+        ],
+        [
+            [
+                4014
+            ],
+            [
+                "修习设施7"
+            ],
+            [
+                "Practice Facility 7"
+            ]
+        ],
+        [
+            [
+                4015
+            ],
+            [
+                "修习设施8"
+            ],
+            [
+                "Practice Facility 8"
+            ]
+        ],
+        [
+            [
+                4016
+            ],
+            [
+                "饲料槽"
+            ],
+            [
+                "Feed Trough"
+            ]
+        ],
+        [
+            [
+                4017
+            ],
+            [
+                "饲养棚"
+            ],
+            [
+                "Shelter"
+            ]
+        ],
+        [
+            [
+                4018
+            ],
+            [
+                "导览点"
+            ],
+            [
+                "Viewing Point"
+            ]
+        ],
+        [
+            [
+                4019
+            ],
+            [
+                "驯化屋"
+            ],
+            [
+                "Taming House"
+            ]
+        ],
+        [
+            [
+                4020
+            ],
+            [
+                "饮水池"
+            ],
+            [
+                "Water Pool"
+            ]
+        ],
+        [
+            [
+                4021
+            ],
+            [
+                "研究站"
+            ],
+            [
+                "Research Station"
+            ]
+        ],
+        [
+            [
+                4022
+            ],
+            [
+                "培训点"
+            ],
+            [
+                "Training Spot"
+            ]
+        ],
+        [
+            [
+                4023
+            ],
+            [
+                "展示牌"
+            ],
+            [
+                "Display Board"
+            ]
+        ],
+        [
+            [
+                4024
+            ],
+            [
+                "进化角色契约灵兽"
+            ],
+            [
+                "Select by character"
+            ]
+        ],
+        [
+            [
+                4025
+            ],
+            [
+                "改造角色契约灵兽"
+            ],
+            [
+                "Select by character"
+            ]
+        ],
+        [
+            [
+                4026
+            ],
+            [
+                "狩猎荣誉"
+            ],
+            [
+                "Honor Bonus"
+            ]
+        ],
+        [
+            [
+                4027
+            ],
+            [
+                "狩猎功勋"
+            ],
+            [
+                "Merit Bonus"
+            ]
+        ],
+        [
+            [
+                4028
+            ],
+            [
+                "请选择目标兽决？"
+            ],
+            [
+                "Select target item？"
+            ]
+        ],
+        [
+            [
+                4029
+            ],
+            [
+                "选择学习目标灵兽"
+            ],
+            [
+                "Select Target Beast"
+            ]
+        ],
+        [
+            [
+                4030
+            ],
+            [
+                "角色契约灵兽学习"
+            ],
+            [
+                "Select by character"
+            ]
+        ],
+        [
+            [
+                4031
+            ],
+            [
+                "选择兽决"
+            ],
+            [
+                "Select Beast Skill"
+            ]
+        ],
+        [
+            [
+                4032
+            ],
+            [
+                "兽决"
+            ],
+            [
+                "[size=12]BeastSkill"
+            ]
+        ],
+        [
+            [
+                4033
+            ],
+            [
+                "槽位未满时[/color]：占用空余槽位"
+            ],
+            [
+                "If slots are open: Fills an empty slot"
+            ]
+        ],
+        [
+            [
+                4034
+            ],
+            [
+                "槽位已满时[/color]：随机替换技能"
+            ],
+            [
+                "If slots are full: Overwrites a skill at random"
+            ]
+        ],
+        [
+            [
+                4035
+            ],
+            [
+                "学习"
+            ],
+            [
+                "Learn"
+            ]
+        ],
+        [
+            [
+                4036
+            ],
+            [
+                "[color=yellow]请选择要学习的兽决！"
+            ],
+            [
+                "[color=yellow]Please select the Beast Skill to learn!"
+            ]
+        ],
+        [
+            [
+                4037
+            ],
+            [
+                "[color=yellow]【无法学习】已学会相同或同类高阶兽决！"
+            ],
+            [
+                "[color=yellow][Cannot Learn] Already mastered same or higher-tier Beast Skill of this type!"
+            ]
+        ],
+        [
+            [
+                4038
+            ],
+            [
+                "[color=lightgreen]兽决学习成功！"
+            ],
+            [
+                "[color=lightgreen]Beast Skill learned successfully!"
             ]
         ],
         [

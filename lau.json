@@ -1,7 +1,7 @@
 {
     "c2array": true,
     "size": [
-        4186,
+        4210,
         3,
         1
     ],
@@ -46050,6 +46050,270 @@
             ],
             [
                 "Weapon Proficiency"
+            ]
+        ],
+        [
+            [
+                4186
+            ],
+            [
+                "教育管理"
+            ],
+            [
+                "Education Manage"
+            ]
+        ],
+        [
+            [
+                4187
+            ],
+            [
+                "职业进修"
+            ],
+            [
+                "Job Advancement"
+            ]
+        ],
+        [
+            [
+                4188
+            ],
+            [
+                "补充资材"
+            ],
+            [
+                "[size=10]Supple Materials"
+            ]
+        ],
+        [
+            [
+                4189
+            ],
+            [
+                "教育点"
+            ],
+            [
+                "[size=10]Education Points"
+            ]
+        ],
+        [
+            [
+                4190
+            ],
+            [
+                "[size=14][color=lightblue]右键点击[/color]可收回教育资材"
+            ],
+            [
+                "[size=14][color=lightblue]Right mouse button[/color] recycling material"
+            ]
+        ],
+        [
+            [
+                4191
+            ],
+            [
+                "教育能力"
+            ],
+            [
+                "[size=10]Education Ability"
+            ]
+        ],
+        [
+            [
+                4192
+            ],
+            [
+                "选择职业进修角色"
+            ],
+            [
+                "Select Character for Job Advancement"
+            ]
+        ],
+        [
+            [
+                4193
+            ],
+            [
+                "未修习职业"
+            ],
+            [
+                "Unlearned Profession"
+            ]
+        ],
+        [
+            [
+                4194
+            ],
+            [
+                "教育能力"
+            ],
+            [
+                "[size=10]Education Ability"
+            ]
+        ],
+        [
+            [
+                4195
+            ],
+            [
+                "教育产出"
+            ],
+            [
+                "[size=10]Education Output"
+            ]
+        ],
+        [
+            [
+                4196
+            ],
+            [
+                "短兵楼"
+            ],
+            [
+                "Melee Tower"
+            ]
+        ],
+        [
+            [
+                4197
+            ],
+            [
+                "防御楼"
+            ],
+            [
+                "Defense Tower"
+            ]
+        ],
+        [
+            [
+                4198
+            ],
+            [
+                "魔法楼"
+            ],
+            [
+                "Magic Tower"
+            ]
+        ],
+        [
+            [
+                4199
+            ],
+            [
+                "医学楼"
+            ],
+            [
+                "Medical Tower"
+            ]
+        ],
+        [
+            [
+                4200
+            ],
+            [
+                "枪械楼"
+            ],
+            [
+                "Firearms Tower"
+            ]
+        ],
+        [
+            [
+                4201
+            ],
+            [
+                "秘术楼"
+            ],
+            [
+                "Arcane Tower"
+            ]
+        ],
+        [
+            [
+                4202
+            ],
+            [
+                "召唤楼"
+            ],
+            [
+                "Summoning Tower"
+            ]
+        ],
+        [
+            [
+                4203
+            ],
+            [
+                "机甲楼"
+            ],
+            [
+                "Mecha Tower"
+            ]
+        ],
+        [
+            [
+                4204
+            ],
+            [
+                "职业等级上限"
+            ],
+            [
+                "Job Maxlevel"
+            ]
+        ],
+        [
+            [
+                4205
+            ],
+            [
+                "进修"
+            ],
+            [
+                "Up"
+            ]
+        ],
+        [
+            [
+                4206
+            ],
+            [
+                "[color=lightgreen]职业进修成功！"
+            ],
+            [
+                "[color=lightgreen]Upgrade Successful！"
+            ]
+        ],
+        [
+            [
+                4207
+            ],
+            [
+                "[color=yellow]【无法进修】教育点不足！"
+            ],
+            [
+                "[color=yellow]Insufficient educational points！"
+            ]
+        ],
+        [
+            [
+                4208
+            ],
+            [
+                "教育消耗"
+            ],
+            [
+                "[size=12]Education Consump."
+            ]
+        ],
+        [
+            [
+                4209
+            ],
+            [
+                "学院经验"
+            ],
+            [
+                "[size=12]Build experience"
             ]
         ]
     ]

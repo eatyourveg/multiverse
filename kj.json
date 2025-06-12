@@ -1964,7 +1964,7 @@
                 36
             ],
             [
-                "解锁建筑[color=lightgreen]学院[/color]"
+                "Unlock[color=lightgreen]College[/color]"
             ]
         ],
         [
@@ -2131,7 +2131,7 @@
                 40
             ],
             [
-                "学院速度"
+                "教育能力"
             ],
             [
                 "基础"
@@ -2152,7 +2152,7 @@
                 2
             ],
             [
-                "学院速度[color=lightgreen]+参数%[/color]"
+                "教育能力[color=lightgreen]+参数%[/color]"
             ],
             [
                 36
@@ -2176,7 +2176,7 @@
                 40
             ],
             [
-                "学院速度[color=lightgreen]+参数%[/color]"
+                "Education Ability[color=lightgreen]+参数%[/color]"
             ]
         ],
         [
@@ -2184,7 +2184,7 @@
                 41
             ],
             [
-                "学院队列"
+                "教育消耗"
             ],
             [
                 "基础"
@@ -2196,16 +2196,16 @@
                 10
             ],
             [
-                10
+                50
             ],
             [
                 33
             ],
             [
-                5
+                2
             ],
             [
-                "学院队列[color=lightgreen]+参数[/color]"
+                "教育消耗减少[color=lightgreen]-参数%[/color]"
             ],
             [
                 36
@@ -2226,10 +2226,10 @@
                 0
             ],
             [
-                41
+                26
             ],
             [
-                "学院队列[color=lightgreen]+参数[/color]"
+                "Education Consump[color=lightgreen]-参数[/color]"
             ]
         ],
         [
@@ -2449,7 +2449,7 @@
                 46
             ],
             [
-                "学院费用"
+                "教育产出"
             ],
             [
                 "基础"
@@ -2470,7 +2470,7 @@
                 2
             ],
             [
-                "学院费用减少[color=lightgreen]参数%[/color]"
+                "教育点产出[color=lightgreen]+参数%[/color]"
             ],
             [
                 40
@@ -2485,16 +2485,16 @@
                 0
             ],
             [
-                10
+                30
             ],
             [
                 0
             ],
             [
-                46
+                40
             ],
             [
-                "学院费用减少[color=lightgreen]参数%[/color]"
+                "Education Output[color=lightgreen]+参数%[/color]"
             ]
         ],
         [
@@ -2547,7 +2547,7 @@
                 47
             ],
             [
-                "学院经验[color=lightgreen]+参数%[/color]"
+                "Building Exp[color=lightgreen]+参数%[/color]"
             ]
         ],
         [

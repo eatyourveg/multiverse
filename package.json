@@ -15,7 +15,7 @@
 		"show": true
 	},
 	"user-agent": "Mozilla/5.0 (%osinfo) AppleWebKit/%webkit_ver (KHTML, like Gecko, Chrome, Safari) NWjs/%nwver",
-	"chromium-args": "--enable-node-worker --disable-plugins --disable-internal-flash --disable-popup-blocking --allow-file-access-from-files --disable-features=HardwareMediaKeyHandling --ignore-gpu-blacklist  --disable-raf-throttling",
+	"chromium-args": "--enable-node-worker --disable-plugins --disable-internal-flash --disable-popup-blocking --allow-file-access-from-files --disable-features=HardwareMediaKeyHandling --ignore-gpu-blacklist --disable-devtools --disable-raf-throttling",
 	"c3-steam-mode": false,
 	"c3-app-icons": [
 		{

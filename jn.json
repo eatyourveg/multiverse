@@ -1,7 +1,7 @@
 {
     "c2array": true,
     "size": [
-        336,
+        354,
         52,
         1
     ],
@@ -7742,7 +7742,7 @@
                 2
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -7900,7 +7900,7 @@
                 2
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -8374,7 +8374,7 @@
                 2
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -8532,7 +8532,7 @@
                 2
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -8690,7 +8690,7 @@
                 4
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -9164,7 +9164,7 @@
                 4
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -9322,7 +9322,7 @@
                 4
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -9480,7 +9480,7 @@
                 4
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -9638,7 +9638,7 @@
                 3
             ],
             [
-                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP"
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -9954,7 +9954,7 @@
                 3
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -10112,7 +10112,7 @@
                 3
             ],
             [
-                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP"
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.Each [color=lightgreen]<buff增效名>[/color] increases Healing [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -10428,7 +10428,7 @@
                 3
             ],
             [
-                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP"
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.Each [color=lightgreen]<buff增效名>[/color] increases Healing [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -11534,7 +11534,7 @@
                 0
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 4
@@ -15958,7 +15958,7 @@
                 5
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -16116,7 +16116,7 @@
                 5
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -16274,7 +16274,7 @@
                 5
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -16432,7 +16432,7 @@
                 5
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -16590,7 +16590,7 @@
                 5
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -17854,7 +17854,7 @@
                 7
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -18012,7 +18012,7 @@
                 7
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add 2 [color=red]<自身buff>[/color]"
             ],
             [
                 0
@@ -18170,7 +18170,7 @@
                 7
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -18644,7 +18644,7 @@
                 7
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -18802,7 +18802,7 @@
                 8
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -18960,7 +18960,7 @@
                 8
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -19118,7 +19118,7 @@
                 8
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -19750,7 +19750,7 @@
                 10
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -19908,7 +19908,7 @@
                 10
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add 2 [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -20066,7 +20066,7 @@
                 10
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add 2 [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -20224,7 +20224,7 @@
                 10
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -20382,7 +20382,7 @@
                 10
             ],
             [
-                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP"
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.Each [color=lightgreen]<buff增效名>[/color] increases Healing [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -20540,7 +20540,7 @@
                 10
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -20698,7 +20698,7 @@
                 9
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -20856,7 +20856,7 @@
                 9
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -21014,7 +21014,7 @@
                 9
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -21172,7 +21172,7 @@
                 9
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -21330,7 +21330,7 @@
                 9
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -21488,7 +21488,7 @@
                 9
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -21646,7 +21646,7 @@
                 11
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -21804,7 +21804,7 @@
                 11
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -21962,7 +21962,7 @@
                 11
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -22278,7 +22278,7 @@
                 11
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -22436,7 +22436,7 @@
                 11
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -22594,7 +22594,7 @@
                 12
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -22752,7 +22752,7 @@
                 12
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -22910,7 +22910,7 @@
                 12
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -23068,7 +23068,7 @@
                 12
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add 1 [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -23226,7 +23226,7 @@
                 12
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add 3 [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -23542,7 +23542,7 @@
                 13
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -23700,7 +23700,7 @@
                 13
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -23858,7 +23858,7 @@
                 13
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -24016,7 +24016,7 @@
                 13
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -24964,7 +24964,7 @@
                 14
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -25438,7 +25438,7 @@
                 15
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -25596,7 +25596,7 @@
                 15
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add 3 [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -25754,7 +25754,7 @@
                 15
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -25912,7 +25912,7 @@
                 15
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Ignite the [color=lightgreen]<buff增效名>[/color] on the target"
             ],
             [
                 0
@@ -26228,7 +26228,7 @@
                 15
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Ignite the [color=lightgreen]<buff增效名>[/color] on the target"
             ],
             [
                 0
@@ -26386,7 +26386,7 @@
                 18
             ],
             [
-                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP"
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -26544,7 +26544,7 @@
                 18
             ],
             [
-                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP"
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -26702,7 +26702,7 @@
                 18
             ],
             [
-                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP"
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -27334,7 +27334,7 @@
                 16
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -27492,7 +27492,7 @@
                 16
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add 3 [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -27650,7 +27650,7 @@
                 16
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add 5 [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -27966,7 +27966,7 @@
                 16
             ],
             [
-                "Applies [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
+                "Applies 5 [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
             ],
             [
                 0
@@ -28124,7 +28124,7 @@
                 16
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -28282,7 +28282,7 @@
                 17
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 1
@@ -28440,7 +28440,7 @@
                 17
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 2
@@ -28598,7 +28598,7 @@
                 17
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 3
@@ -29546,7 +29546,7 @@
                 19
             ],
             [
-                "Applies [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
+                "Applies 4 [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
             ],
             [
                 0
@@ -29704,7 +29704,7 @@
                 19
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -29862,7 +29862,7 @@
                 19
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -30020,7 +30020,7 @@
                 19
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -30336,7 +30336,7 @@
                 21
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -30652,7 +30652,7 @@
                 21
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -30810,7 +30810,7 @@
                 21
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -30968,7 +30968,7 @@
                 21
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -32074,7 +32074,7 @@
                 23
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -32232,7 +32232,7 @@
                 23
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -32390,7 +32390,7 @@
                 23
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -33022,7 +33022,7 @@
                 24
             ],
             [
-                "Applies [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
+                "Applies 3 [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
             ],
             [
                 0
@@ -33180,7 +33180,7 @@
                 24
             ],
             [
-                "Applies [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
+                "Applies 8 [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
             ],
             [
                 0
@@ -33338,7 +33338,7 @@
                 24
             ],
             [
-                "Applies [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
+                "Applies 20 [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
             ],
             [
                 0
@@ -33496,7 +33496,7 @@
                 24
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -33654,7 +33654,7 @@
                 24
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -33812,7 +33812,7 @@
                 24
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -34918,7 +34918,7 @@
                 27
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -35076,7 +35076,7 @@
                 27
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -35234,7 +35234,7 @@
                 27
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -35866,7 +35866,7 @@
                 25
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -36024,7 +36024,7 @@
                 25
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -36182,7 +36182,7 @@
                 25
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -36340,7 +36340,7 @@
                 25
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -36656,7 +36656,7 @@
                 25
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -36814,7 +36814,7 @@
                 26
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -36972,7 +36972,7 @@
                 26
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -37130,7 +37130,7 @@
                 26
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -37288,7 +37288,7 @@
                 26
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -37446,7 +37446,7 @@
                 26
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -38710,7 +38710,7 @@
                 29
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -38868,7 +38868,7 @@
                 29
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -39184,7 +39184,7 @@
                 29
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -39342,7 +39342,7 @@
                 29
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -39500,7 +39500,7 @@
                 29
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -39816,7 +39816,7 @@
                 30
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -39974,7 +39974,7 @@
                 30
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -40132,7 +40132,7 @@
                 30
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Target each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -40290,7 +40290,7 @@
                 30
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Target each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -40448,7 +40448,7 @@
                 30
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Target each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -41554,7 +41554,7 @@
                 32
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 ""
@@ -41712,7 +41712,7 @@
                 32
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 ""
@@ -41870,7 +41870,7 @@
                 32
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 ""
@@ -42028,7 +42028,7 @@
                 32
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Ignite the [color=lightgreen]<buff增效名>[/color] on the target"
             ],
             [
                 ""
@@ -42186,7 +42186,7 @@
                 32
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Ignite the [color=lightgreen]<buff增效名>[/color] on the target"
             ],
             [
                 ""
@@ -42344,7 +42344,7 @@
                 32
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Ignite the [color=lightgreen]<buff增效名>[/color] on the target"
             ],
             [
                 ""
@@ -43450,7 +43450,7 @@
                 34
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -43608,7 +43608,7 @@
                 34
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -43766,7 +43766,7 @@
                 34
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -43924,7 +43924,7 @@
                 34
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -44082,7 +44082,7 @@
                 34
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -44240,7 +44240,7 @@
                 34
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -44398,7 +44398,7 @@
                 35
             ],
             [
-                "Add [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] shields to teammates in range"
+                "Add [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] shields to teammates in range.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -44556,7 +44556,7 @@
                 35
             ],
             [
-                "Add [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] shields to teammates in range"
+                "Add [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] shields to teammates in range.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -44714,7 +44714,7 @@
                 35
             ],
             [
-                "Add [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] shields to teammates in range"
+                "Add [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] shields to teammates in range.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -44872,7 +44872,7 @@
                 35
             ],
             [
-                "Applies [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
+                "Applies 3 [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
             ],
             [
                 0
@@ -45030,7 +45030,7 @@
                 35
             ],
             [
-                "Applies [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
+                "Applies 3 [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
             ],
             [
                 0
@@ -45188,7 +45188,7 @@
                 35
             ],
             [
-                "Applies [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
+                "Applies 3 [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
             ],
             [
                 0
@@ -45346,7 +45346,7 @@
                 36
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 4
@@ -45504,7 +45504,7 @@
                 36
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 5
@@ -45662,7 +45662,7 @@
                 36
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 6
@@ -45820,7 +45820,7 @@
                 36
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 7
@@ -45978,7 +45978,7 @@
                 36
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 8
@@ -46136,7 +46136,7 @@
                 36
             ],
             [
-                "Summon a creature"
+                "Summon a creature.The maximum number of summoned items is [color=lightgreen]召唤数量[/color]."
             ],
             [
                 9
@@ -49770,7 +49770,7 @@
                 37
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -49928,7 +49928,7 @@
                 37
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -50086,7 +50086,7 @@
                 37
             ],
             [
-                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -50718,7 +50718,7 @@
                 38
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -50876,7 +50876,7 @@
                 38
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -51034,7 +51034,7 @@
                 38
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -51192,7 +51192,7 @@
                 38
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -51350,7 +51350,7 @@
                 38
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -51666,7 +51666,7 @@
                 39
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -51824,7 +51824,7 @@
                 39
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=lightgreen]<自身buff>[/color]"
             ],
             [
                 0
@@ -51982,7 +51982,7 @@
                 39
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
             ],
             [
                 0
@@ -52140,7 +52140,7 @@
                 39
             ],
             [
-                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies."
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.add [color=red]<buff名>[/color]"
             ],
             [
                 0
@@ -52298,7 +52298,7 @@
                 39
             ],
             [
-                "Applies [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
+                "Applies 3 [color=lightgreen]<buff名>[/color] buff to friendly forces in range"
             ],
             [
                 0
@@ -53089,6 +53089,2850 @@
             ],
             [
                 "Passive skill effect only"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                336
+            ],
+            [
+                "金钵甘露"
+            ],
+            [
+                336
+            ],
+            [
+                0
+            ],
+            [
+                16
+            ],
+            [
+                6
+            ],
+            [
+                3
+            ],
+            [
+                3
+            ],
+            [
+                135
+            ],
+            [
+                60
+            ],
+            [
+                132
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=lightgreen]【治疗】[/color]回复我方单体释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "生命治疗"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                63
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "医疗1"
+            ],
+            [
+                40
+            ],
+            [
+                "治疗"
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "我方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                40
+            ],
+            [
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                337
+            ],
+            [
+                "菩提净愈"
+            ],
+            [
+                337
+            ],
+            [
+                0
+            ],
+            [
+                16
+            ],
+            [
+                6
+            ],
+            [
+                4
+            ],
+            [
+                4
+            ],
+            [
+                135
+            ],
+            [
+                60
+            ],
+            [
+                132
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=lightgreen]【治疗】[/color]回复我方范围释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "生命治疗"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ],
+            [
+                63
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "全体免伤"
+            ],
+            [
+                60
+            ],
+            [
+                "治疗"
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                25
+            ],
+            [
+                0
+            ],
+            [
+                "我方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                40
+            ],
+            [
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                338
+            ],
+            [
+                "八宝转轮"
+            ],
+            [
+                338
+            ],
+            [
+                0
+            ],
+            [
+                16
+            ],
+            [
+                6
+            ],
+            [
+                5
+            ],
+            [
+                5
+            ],
+            [
+                135
+            ],
+            [
+                70
+            ],
+            [
+                132
+            ],
+            [
+                30
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=lightgreen]【治疗】[/color]回复我方全体释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "生命治疗"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                63
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "医疗2"
+            ],
+            [
+                30
+            ],
+            [
+                "治疗"
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                33
+            ],
+            [
+                0
+            ],
+            [
+                "我方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                40
+            ],
+            [
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                339
+            ],
+            [
+                "金刚醍醐"
+            ],
+            [
+                339
+            ],
+            [
+                0
+            ],
+            [
+                16
+            ],
+            [
+                6
+            ],
+            [
+                3
+            ],
+            [
+                3
+            ],
+            [
+                132
+            ],
+            [
+                60
+            ],
+            [
+                134
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=lightgreen]【治疗】[/color]回复我方单体释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "生命治疗"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                64
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "医疗1"
+            ],
+            [
+                90
+            ],
+            [
+                "治疗"
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "我方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                40
+            ],
+            [
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                340
+            ],
+            [
+                "轮回梵唱"
+            ],
+            [
+                340
+            ],
+            [
+                0
+            ],
+            [
+                16
+            ],
+            [
+                6
+            ],
+            [
+                4
+            ],
+            [
+                4
+            ],
+            [
+                132
+            ],
+            [
+                60
+            ],
+            [
+                136
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=lightgreen]【治疗】[/color]回复我方范围释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "生命治疗"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ],
+            [
+                64
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "全体回复"
+            ],
+            [
+                90
+            ],
+            [
+                "治疗"
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                25
+            ],
+            [
+                0
+            ],
+            [
+                "我方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                40
+            ],
+            [
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                341
+            ],
+            [
+                "莲华渡厄"
+            ],
+            [
+                341
+            ],
+            [
+                0
+            ],
+            [
+                16
+            ],
+            [
+                6
+            ],
+            [
+                5
+            ],
+            [
+                5
+            ],
+            [
+                132
+            ],
+            [
+                60
+            ],
+            [
+                135
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=lightgreen]【治疗】[/color]回复我方全体释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]生命值，并附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "生命治疗"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                64
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "医疗3"
+            ],
+            [
+                0
+            ],
+            [
+                "治疗"
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                33
+            ],
+            [
+                0
+            ],
+            [
+                "我方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                40
+            ],
+            [
+                "Healing [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] HP.add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                342
+            ],
+            [
+                "赤炼妖爪"
+            ],
+            [
+                342
+            ],
+            [
+                0
+            ],
+            [
+                9
+            ],
+            [
+                3
+            ],
+            [
+                3
+            ],
+            [
+                3
+            ],
+            [
+                133
+            ],
+            [
+                60
+            ],
+            [
+                132
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对敌方单体造成释放者[color=orange]物攻[/color]*[color=lightgreen]百分比数值%[/color]伤害，[color=lightblue]buff几率%[/color]附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                65
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "物理"
+            ],
+            [
+                1
+            ],
+            [
+                "无"
+            ],
+            [
+                90
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "爪击"
+            ],
+            [
+                0
+            ],
+            [
+                "箭击"
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                41
+            ],
+            [
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                343
+            ],
+            [
+                "炽魂怒斩"
+            ],
+            [
+                343
+            ],
+            [
+                0
+            ],
+            [
+                9
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                4
+            ],
+            [
+                133
+            ],
+            [
+                60
+            ],
+            [
+                132
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对范围敌人造成释放者[color=orange]物攻[/color]*[color=lightgreen]百分比数值%[/color]伤害，[color=lightblue]buff几率%[/color]附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ],
+            [
+                65
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "物理"
+            ],
+            [
+                1
+            ],
+            [
+                "无"
+            ],
+            [
+                90
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "乱崩"
+            ],
+            [
+                90
+            ],
+            [
+                "箭击"
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                17
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                41
+            ],
+            [
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                344
+            ],
+            [
+                "火煞狂袭"
+            ],
+            [
+                344
+            ],
+            [
+                0
+            ],
+            [
+                9
+            ],
+            [
+                3
+            ],
+            [
+                5
+            ],
+            [
+                5
+            ],
+            [
+                133
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对全体敌人造成释放者[color=orange]物攻[/color]*[color=lightgreen]百分比数值%[/color]伤害，[color=lightblue]buff几率%[/color]附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                65
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "物理"
+            ],
+            [
+                1
+            ],
+            [
+                "无"
+            ],
+            [
+                90
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "火焰2"
+            ],
+            [
+                0
+            ],
+            [
+                "箭击"
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                33
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                41
+            ],
+            [
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                345
+            ],
+            [
+                "炼狱妖爆"
+            ],
+            [
+                345
+            ],
+            [
+                0
+            ],
+            [
+                9
+            ],
+            [
+                3
+            ],
+            [
+                3
+            ],
+            [
+                3
+            ],
+            [
+                131
+            ],
+            [
+                60
+            ],
+            [
+                133
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对目标及其身旁敌人造成释放者[color=orange]物攻[/color]*[color=lightgreen]百分比数值%[/color]伤害。目标每一层[color=lightgreen]<buff增效名>[/color]，使伤害增加[color=lightgreen]buff增效%[/color]。"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "物理"
+            ],
+            [
+                1
+            ],
+            [
+                "无"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "火券"
+            ],
+            [
+                90
+            ],
+            [
+                "箭击"
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                13
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                "敌方"
+            ],
+            [
+                65
+            ],
+            [
+                10
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                41
+            ],
+            [
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Target each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                346
+            ],
+            [
+                "横扫千军"
+            ],
+            [
+                346
+            ],
+            [
+                0
+            ],
+            [
+                9
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                4
+            ],
+            [
+                133
+            ],
+            [
+                50
+            ],
+            [
+                132
+            ],
+            [
+                50
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对全体敌人造成释放者[color=orange]物攻[/color]*[color=lightgreen]百分比数值%[/color]伤害。目标每一层[color=lightgreen]<buff增效名>[/color]，使伤害增加[color=lightgreen]buff增效%[/color]。"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "物理"
+            ],
+            [
+                1
+            ],
+            [
+                "无"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "竖斩"
+            ],
+            [
+                95
+            ],
+            [
+                "箭击"
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                33
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                "敌方"
+            ],
+            [
+                65
+            ],
+            [
+                10
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                41
+            ],
+            [
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Target each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                347
+            ],
+            [
+                "最强一击"
+            ],
+            [
+                347
+            ],
+            [
+                0
+            ],
+            [
+                9
+            ],
+            [
+                3
+            ],
+            [
+                5
+            ],
+            [
+                5
+            ],
+            [
+                131
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对敌人造成释放者[color=orange]物攻[/color]*[color=lightgreen]百分比数值%[/color]伤害。目标每一层[color=lightgreen]<buff增效名>[/color]，使伤害增加[color=lightgreen]buff增效%[/color]。[color=lightgreen]<buff增效名>[/color]清空。"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "物理"
+            ],
+            [
+                1
+            ],
+            [
+                "无"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "火系2"
+            ],
+            [
+                45
+            ],
+            [
+                "箭击"
+            ],
+            [
+                0
+            ],
+            [
+                8
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                "敌方"
+            ],
+            [
+                65
+            ],
+            [
+                45
+            ],
+            [
+                99
+            ],
+            [
+                5
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                41
+            ],
+            [
+                "Deals [color=orange]ATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.Target each [color=lightgreen]<buff增效名>[/color] increases damage [color=lightgreen]buff增效%[/color]."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                348
+            ],
+            [
+                "电光遁"
+            ],
+            [
+                348
+            ],
+            [
+                0
+            ],
+            [
+                12
+            ],
+            [
+                1
+            ],
+            [
+                3
+            ],
+            [
+                3
+            ],
+            [
+                135
+            ],
+            [
+                60
+            ],
+            [
+                132
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对敌方单体造成释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]伤害，[color=lightblue]buff几率%[/color]附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                66
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "雷系4"
+            ],
+            [
+                0
+            ],
+            [
+                "电伤"
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                42
+            ],
+            [
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                349
+            ],
+            [
+                "雷池劫界"
+            ],
+            [
+                349
+            ],
+            [
+                0
+            ],
+            [
+                12
+            ],
+            [
+                1
+            ],
+            [
+                4
+            ],
+            [
+                4
+            ],
+            [
+                135
+            ],
+            [
+                60
+            ],
+            [
+                132
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对范围敌方造成释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]伤害，[color=lightblue]buff几率%[/color]附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ],
+            [
+                66
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "雷暴"
+            ],
+            [
+                0
+            ],
+            [
+                "电伤"
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                17
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                42
+            ],
+            [
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                350
+            ],
+            [
+                "玉枢神雷咒"
+            ],
+            [
+                350
+            ],
+            [
+                0
+            ],
+            [
+                12
+            ],
+            [
+                1
+            ],
+            [
+                5
+            ],
+            [
+                5
+            ],
+            [
+                135
+            ],
+            [
+                70
+            ],
+            [
+                132
+            ],
+            [
+                30
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对全体敌方造成释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]伤害，[color=lightblue]buff几率%[/color]附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                66
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "雷系2"
+            ],
+            [
+                60
+            ],
+            [
+                "电伤"
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                33
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                42
+            ],
+            [
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                351
+            ],
+            [
+                "震天式"
+            ],
+            [
+                351
+            ],
+            [
+                0
+            ],
+            [
+                12
+            ],
+            [
+                1
+            ],
+            [
+                3
+            ],
+            [
+                3
+            ],
+            [
+                132
+            ],
+            [
+                60
+            ],
+            [
+                134
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对敌方单体造成释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]伤害，[color=lightblue]buff几率%[/color]附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                67
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "雷系3"
+            ],
+            [
+                0
+            ],
+            [
+                "电伤"
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                42
+            ],
+            [
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                352
+            ],
+            [
+                "大罗雷劫"
+            ],
+            [
+                352
+            ],
+            [
+                0
+            ],
+            [
+                12
+            ],
+            [
+                1
+            ],
+            [
+                4
+            ],
+            [
+                4
+            ],
+            [
+                132
+            ],
+            [
+                60
+            ],
+            [
+                136
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对范围敌方造成释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]伤害，[color=lightblue]buff几率%[/color]附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                2
+            ],
+            [
+                0
+            ],
+            [
+                67
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "连爆"
+            ],
+            [
+                0
+            ],
+            [
+                "电伤"
+            ],
+            [
+                0
+            ],
+            [
+                4
+            ],
+            [
+                16
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                42
+            ],
+            [
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                353
+            ],
+            [
+                "雷部诸神降"
+            ],
+            [
+                353
+            ],
+            [
+                0
+            ],
+            [
+                12
+            ],
+            [
+                1
+            ],
+            [
+                5
+            ],
+            [
+                5
+            ],
+            [
+                132
+            ],
+            [
+                60
+            ],
+            [
+                135
+            ],
+            [
+                40
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                "[color=yellow]【攻击】[/color]对全体敌方造成释放者[color=lightblue]法攻[/color]*[color=lightgreen]百分比数值%[/color]伤害，[color=lightblue]buff几率%[/color]附加[color=red]<buff名>[/color]"
+            ],
+            [
+                "近战攻击"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                3
+            ],
+            [
+                0
+            ],
+            [
+                67
+            ],
+            [
+                100
+            ],
+            [
+                0
+            ],
+            [
+                1
+            ],
+            [
+                0
+            ],
+            [
+                "法术"
+            ],
+            [
+                1
+            ],
+            [
+                "施法1"
+            ],
+            [
+                100
+            ],
+            [
+                "无"
+            ],
+            [
+                0
+            ],
+            [
+                "雷系1"
+            ],
+            [
+                0
+            ],
+            [
+                "电伤"
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                33
+            ],
+            [
+                0
+            ],
+            [
+                "敌方"
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                0
+            ],
+            [
+                6
+            ],
+            [
+                0
+            ],
+            [
+                5
+            ],
+            [
+                13
+            ],
+            [
+                2
+            ],
+            [
+                42
+            ],
+            [
+                "Deals [color=lightblue]MATK[/color] * [color=lightgreen]百分比数值%[/color] damage to enemies.[color=lightblue]buff几率%[/color] add [color=red]<buff名>[/color]"
             ],
             [
                 0

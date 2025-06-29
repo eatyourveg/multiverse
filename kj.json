@@ -1911,7 +1911,7 @@
                 35
             ],
             [
-                "Unlock[color=lightgreen]Training hall[/color]"
+                "Unlock [color=lightgreen]Training hall[/color]"
             ]
         ],
         [
@@ -1964,7 +1964,7 @@
                 36
             ],
             [
-                "Unlock[color=lightgreen]College[/color]"
+                "Unlock [color=lightgreen]College[/color]"
             ]
         ],
         [
@@ -2017,7 +2017,7 @@
                 37
             ],
             [
-                "Unlock[color=lightgreen]Zoo[/color]"
+                "Unlock [color=lightgreen]Zoo[/color]"
             ]
         ],
         [
@@ -2706,7 +2706,7 @@
                 50
             ],
             [
-                "解锁建筑[color=lightgreen]作战部[/color]"
+                "Unlock [color=lightgreen]Combat[/color]"
             ]
         ],
         [
@@ -2726,16 +2726,16 @@
                 13
             ],
             [
-                5
+                4
             ],
             [
                 45
             ],
             [
-                10
+                15
             ],
             [
-                "派遣探索队伍上限[color=lightgreen]+参数[/color]"
+                "派遣探索队伍数量[color=lightgreen]+参数[/color]"
             ],
             [
                 50
@@ -2750,16 +2750,16 @@
                 0
             ],
             [
-                0
+                10
             ],
             [
                 0
             ],
             [
-                9
+                42
             ],
             [
-                "派遣探索队伍上限[color=lightgreen]+参数[/color]"
+                "Exploration Teams [color=lightgreen]+参数[/color]"
             ]
         ],
         [
@@ -2803,7 +2803,7 @@
                 0
             ],
             [
-                50
+                25
             ],
             [
                 0
@@ -2812,7 +2812,7 @@
                 9
             ],
             [
-                "派遣探索速度[color=lightgreen]+参数%[/color]"
+                "Exploration Speed [color=lightgreen]+参数%[/color]"
             ]
         ],
         [
@@ -2820,7 +2820,7 @@
                 53
             ],
             [
-                "派遣材料率"
+                "派遣经验点"
             ],
             [
                 "基础"
@@ -2841,7 +2841,7 @@
                 2
             ],
             [
-                "派遣探索材料掉率[color=lightgreen]+参数%[/color]"
+                "派遣经验点[color=lightgreen]+参数%[/color]"
             ],
             [
                 50
@@ -2862,10 +2862,10 @@
                 0
             ],
             [
-                9
+                62
             ],
             [
-                "派遣探索材料掉率[color=lightgreen]+参数%[/color]"
+                "Dispatch EXP [color=lightgreen]+参数%[/color]"
             ]
         ],
         [
@@ -2873,7 +2873,7 @@
                 54
             ],
             [
-                "派遣装备率"
+                "派遣技能点"
             ],
             [
                 "基础"
@@ -2894,7 +2894,7 @@
                 2
             ],
             [
-                "派遣探索装备掉率[color=lightgreen]+参数%[/color]"
+                "派遣技能点[color=lightgreen]+参数%[/color]"
             ],
             [
                 50
@@ -2915,10 +2915,10 @@
                 0
             ],
             [
-                9
+                63
             ],
             [
-                "派遣探索装备掉率[color=lightgreen]+参数%[/color]"
+                "Dispatch SP [color=lightgreen]+参数%[/color]"
             ]
         ],
         [
@@ -2926,7 +2926,7 @@
                 55
             ],
             [
-                "装备自动上架"
+                "派遣职业点"
             ],
             [
                 "基础"
@@ -2938,16 +2938,16 @@
                 13
             ],
             [
-                1
+                50
             ],
             [
                 45
             ],
             [
-                1
+                2
             ],
             [
-                "解锁功能[color=lightgreen]探索装备自动上架[/color]"
+                "派遣职业点[color=lightgreen]+参数%[/color]"
             ],
             [
                 50
@@ -2962,16 +2962,16 @@
                 0
             ],
             [
-                0
+                25
             ],
             [
                 0
             ],
             [
-                9
+                64
             ],
             [
-                "解锁功能[color=lightgreen]探索装备自动上架[/color]"
+                "Dispatch XP [color=lightgreen]+参数%[/color]"
             ]
         ],
         [
@@ -3018,7 +3018,7 @@
                 0
             ],
             [
-                0
+                1
             ],
             [
                 9
